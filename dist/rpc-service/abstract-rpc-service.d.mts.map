@@ -1,0 +1,1 @@
+{"version":3,"file":"abstract-rpc-service.d.mts","sourceRoot":"","sources":["../../src/rpc-service/abstract-rpc-service.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,qBAAqB,EAAE,sCAAkC;AAEvE;;;GAGG;AACH,MAAM,MAAM,kBAAkB,GAAG,qBAAqB,GAAG;IACvD;;OAEG;IACH,WAAW,EAAE,GAAG,CAAC;CAClB,CAAC"}

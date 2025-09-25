@@ -1,0 +1,1 @@
+{"version":3,"file":"shared.d.cts","sourceRoot":"","sources":["../../src/rpc-service/shared.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,MAAM,MAAM,YAAY,GAAG,WAAW,CAAC;AAEvC;;;GAGG;AACH,MAAM,MAAM,uBAAuB,CAAC,aAAa,EAAE,cAAc,IAC/D,aAAa,SAAS,CAAC,IAAI,EAAE,MAAM,IAAI,KAAK,IAAI,GAC5C,CAAC,IAAI,EAAE,IAAI,SAAS,IAAI,GAAG,cAAc,GAAG,IAAI,GAAG,cAAc,KAAK,IAAI,GAC1E,KAAK,CAAC"}
